@@ -64,67 +64,61 @@ define(['character'], function(Character) {
         ],
         
         "scientist": [
-            "Greetings.",
-            "I am the inventor of these two potions.",
-            "The red one will replenish your health points...",
-            "The orange one will turn you into a firefox and make you invincible...",
-            "But it only lasts for a short while.",
-            "So make good use of it!",
-            "Now if you'll excuse me, I need to get back to my experiments..."
+            "Hi 看我帅不 我叫山城.",
+            "我擅长耍流氓 我最帅 我最帅.",
+            "昨天一个百万富婆想包养我 我应不应该同意呢？",
+            "顺便 说一下我旁边有两个药瓶 一个是威哥 一个是印度神油",
+            "你要不要试试啊",
+            "我到底要不要被包养 。。。。。。。。。。。",
+            "别跟我说话 我要好好想想"
         ],
     
         "nyan": [
-            "nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan",
-            "nyan nyan nyan nyan nyan nyan nyan nyan"
+            "滚滚滚",
+            "滚滚滚滚滚滚滚滚滚",
+            "滚滚滚",
+            "滚滚滚"
         ],
         
         "beachnpc": [
-            "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "我是张鑫锐 ",
+            "我想去裸泳 但是XX太大 怕吓到他们"
         ],
         
         "forestnpc": [
-            "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "我是尹鸿钧 我正在找我掉落的鸡鸡",
+            "我的鸡鸡快出来"
         ],
         
         "desertnpc": [
-            "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "我是袁琛 1+1*1 = 3",
+            "问你一个题 如果我是傻X 那么你是不是傻X"
         ],
         
         "lavanpc": [
-            "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "好热 我是付飞虎 我想脱",
+            "明天去相亲 我要好好表现"
         ],
     
         "priest": [
-            "Oh, hello, young man.",
-            "Wisdom is everything, so I'll share a few guidelines with you.",
-            "You are free to go wherever you like in this world",
-            "but beware of the many foes that await you.",
-            "You can find many weapons and armors by killing enemies.",
-            "The tougher the enemy, the higher the potential rewards.",
-            "You can also unlock achievements by exploring and hunting.",
-            "Click on the small cup icon to see a list of all the achievements.",
-            "Please stay a while and enjoy the many surprises of BrowserQuest",
-            "Farewell, young friend."
+            "我是唐永志 我最近信教.",
+            "智慧就是一切.",
+            "你看起来胸肌很大啊",
+            "你屁股上的肉肉好结实.",
+            "人家好喜欢.",
+            "明天换个女仆装.",
+            "今天的牧师装 都没有汉子来勾搭我.",
+            "每次看到杨戈我都流口水.",
+            "我觉得周亚雄 也不错",
+            "今天晚上到底陪谁呢？."
         ],
         
         "sorcerer": [
-            "Ah... I had foreseen you would come to see me.",
-            "Well? How do you like my new staff?",
-            "Pretty cool, eh?",
-            "Where did I get it, you ask?",
-            "I understand. It's easy to get envious.",
-            "I actually crafted it myself, using my mad wizard skills.",
-            "But let me tell you one thing...",
-            "There are lots of items in this game.",
-            "Some more powerful than others.",
-            "In order to find them, exploration is key.",
-            "Good luck."
+            "我是张丹.",
+            "来我给你算个命",
+            "你的星座不好 你是处男座",
+            "你属驴 这个还可以",
+            "想算命我来找我啊."
         ],
         
         "octocat": [
@@ -133,29 +127,29 @@ define(['character'], function(Character) {
         ],
         
         "coder": [
-            "Hi! Do you know that you can also play BrowserQuest on your tablet or mobile?",
-            "That's the beauty of HTML5!",
-            "Give it a try..."
+            "我是帅哥鲁力源",
+            "我是最正常的一个",
+            "体验游戏吧 觉得不好也不好给我说 因为我会给你说一个字 “滚”"
         ],
     
         "beachnpc": [
-            "Don't mind me, I'm just here on vacation.",
-            "I have to say...",
-            "These giant crabs are somewhat annoying.",
-            "Could you please get rid of them for me?"
+            "我是小敏 我内心是个爷们.",
+            "今天晚上想吃鲍鱼",
+            "好无聊.",
+            "放个屁让你听听？"
         ],
         
         "desertnpc": [
-            "One does not simply walk into these mountains...",
-            "An ancient undead lord is said to dwell here.",
-            "Nobody knows exactly what he looks like...",
-            "...for none has lived to tell the tale.",
-            "It's not too late to turn around and go home, kid."
+            "My name is 周亚雄",
+            "唐唐总是跟我抢男人 我好讨厌他.",
+            "其实我暗恋的是小虎",
+            "昨天晚上遇到一个女人 她想睡我 我拼命反抗。。。。。。",
+            "最后脱掉假发 一看是周豪 我就从了"
         ],
     
         "othernpc": [
-            "lorem ipsum",
-            "lorem ipsum"
+            "关系太乱",
+            "关系太乱"
         ]
     };
 

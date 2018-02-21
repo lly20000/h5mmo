@@ -6,105 +6,105 @@ define(['item'], function(Item) {
         Sword2: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.SWORD2, "weapon");
-                this.lootMessage = "You pick up a steel sword";
+                this.lootMessage = "你捡到了一个破处男剑";
             },
         }),
 
         Axe: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.AXE, "weapon");
-                this.lootMessage = "You pick up an axe";
+                this.lootMessage = "你捡到了一个单身狗斧";
             },
         }),
 
         RedSword: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.REDSWORD, "weapon");
-                this.lootMessage = "You pick up a blazing sword";
+                this.lootMessage = "你捡到了一个帅哥火焰剑";
             },
         }),
 
         BlueSword: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.BLUESWORD, "weapon");
-                this.lootMessage = "You pick up a magic sword";
+                this.lootMessage = "你捡到了一个自慰棒";
             },
         }),
 
         GoldenSword: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.GOLDENSWORD, "weapon");
-                this.lootMessage = "You pick up the ultimate sword";
+                this.lootMessage = "这是一个日本进口的自慰棒";
             },
         }),
 
         MorningStar: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.MORNINGSTAR, "weapon");
-                this.lootMessage = "You pick up a morning star";
+                this.lootMessage = "破菊星";
             },
         }),
 
         LeatherArmor: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.LEATHERARMOR, "armor");
-                this.lootMessage = "You equip a leather armor";
+                this.lootMessage = "皮甲";
             },
         }),
 
         MailArmor: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.MAILARMOR, "armor");
-                this.lootMessage = "You equip a mail armor";
+                this.lootMessage = "露鸡鸡甲";
             },
         }),
 
         PlateArmor: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.PLATEARMOR, "armor");
-                this.lootMessage = "You equip a plate armor";
+                this.lootMessage = "露下身甲";
             },
         }),
 
         RedArmor: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.REDARMOR, "armor");
-                this.lootMessage = "You equip a ruby armor";
+                this.lootMessage = "红甲";
             },
         }),
 
         GoldenArmor: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.GOLDENARMOR, "armor");
-                this.lootMessage = "You equip a golden armor";
+                this.lootMessage = "金甲";
             },
         }),
 
         Flask: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.FLASK, "object");
-                this.lootMessage = "You drink a health potion";
+                this.lootMessage = "血瓶";
             },
         }),
         
         Cake: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.CAKE, "object");
-                this.lootMessage = "You eat a cake";
+                this.lootMessage = "蛋糕";
             },
         }),
 
         Burger: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.BURGER, "object");
-                this.lootMessage = "You can haz rat burger";
+                this.lootMessage = "汉堡";
             },
         }),
 
         FirePotion: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.FIREPOTION, "object");
-                this.lootMessage = "You feel the power of Firefox!";
+                this.lootMessage = "印度神油!";
             },
     
             onLoot: function(player) {
